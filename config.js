@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/'',
+			link: 'https://mail.protonmail.com/',
 		},
 	],
 
