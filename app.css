@@ -126,7 +126,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-
+/*
 .weatherBlock {
   grid-column: 3 / span 2;
   grid-row: 1 / span 2;
@@ -135,7 +135,7 @@ body {
   align-items: center;
   justify-content: center;
 }
-
+*/
 .date {
   display: flex;
   align-items: center;
